@@ -1,3 +1,4 @@
+```
 {
   "breadcrumbs.enabled": true,
   "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
@@ -7,7 +8,7 @@
   "editor.lineHeight": 1.8,
   "editor.minimap.enabled": false,
   "editor.rulers": [
-    160
+      160
   ],
   "editor.semanticHighlighting.enabled": false,
   "editor.tabSize": 2,
@@ -19,5 +20,6 @@
   "workbench.statusBar.visible": false,
   "symbols.hidesExplorerArrows": false,
   "diffEditor.ignoreTrimWhitespace": false,
-  "extensions.ignoreRecommendations": true
+  "extensions.ignoreRecommendations": true,
 }
+```
