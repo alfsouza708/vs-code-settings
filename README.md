@@ -1,3 +1,11 @@
+## VSCode Minified Settings
+
+### Settings
+
+```File -> Preferences -> Settings```
+
+![JSON icon](image.png)
+
 ```
 {
   "breadcrumbs.enabled": true,
