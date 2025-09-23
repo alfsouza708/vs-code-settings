@@ -2,7 +2,7 @@
 
 ### Settings
 
-```File -> Preferences -> Settings```
+`File -> Preferences -> Settings`
 
 ![JSON icon](image.png)
 
@@ -33,5 +33,15 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "css.lint.unknownAtRules": "ignore"
+}
+```
+
+### Keyboard Shortcut
+
+```
+{
+  "key": "ctrl+q",
+  "command": "workbench.action.quickOpenNavigateNextInViewPicker",
+  "when": "inQuickOpen && inViewsPicker"
 }
 ```
